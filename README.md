@@ -3,11 +3,11 @@ Cen-Search.
 =============
 [![Discord Users Online](https://discordapp.com/api/guilds/483209992980135936/widget.png?style=shield)](https://discord.gg/BVu2SaC)
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=centopw_Cen-search&metric=alert_status)](https://sonarcloud.io/dashboard?id=centopw_Cent-search)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=centopw_Cen-search&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=centopw_Cent-search)
-[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=Cent-search&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=Cent-search)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=centopw_Cent-search&metric=security_rating)](https://sonarcloud.io/dashboard?id=Cent-search)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=centopw_Cent-search&metric=ncloc)](https://sonarcloud.io/dashboard?id=Cent-search)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=centopw_Cent-search&metric=alert_status)](https://sonarcloud.io/dashboard?id=ccentopw_Cent-search)
+[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=centopw_Cent-search&metric=sqale_rating)](https://sonarcloud.io/dashboard?id=centopw_Cent-search)
+[![Reliability Rating](https://sonarcloud.io/api/project_badges/measure?project=centopw_Cent-search&metric=reliability_rating)](https://sonarcloud.io/dashboard?id=centopw_Cent-search)
+[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=centopw_Cent-search&metric=security_rating)](https://sonarcloud.io/dashboard?id=centopw_Cent-search)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=centopw_Cent-search&metric=ncloc)](https://sonarcloud.io/dashboard?id=centopw_Cent-search)
 
 A Google clone using [Reactjs](https://reactjs.org/). and google custom search API
 
