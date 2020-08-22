@@ -15,7 +15,7 @@ Demo.
 =============
  You can see a live demo [here](https://cent-search.web.app)
  
- Since using Free API provide by google the app only can request 100 search/Days
+ Since we are using Free API provide by google, the app only can request 100 search/Days
 
 Setup.
 =============
