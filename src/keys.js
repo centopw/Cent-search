@@ -1,3 +1,4 @@
-export const API_KEY = "AIzaSyCAiH6FRJq8vT2oQ_lT4Vzw5tLc3IllexI";
+//Replay ``YOUR_API_KEY`` with you custom search api key
+export const API_KEY = "YOUR_API_KEY";
 
 export default API_KEY;
