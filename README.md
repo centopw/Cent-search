@@ -24,7 +24,7 @@ Make sure you have install [nodejs](https://nodejs.org)
 
 Go to Google developer page [Here](https://developers.google.com/custom-search/v1/overview#api_key)  click "GET A KEY", Create a project and copy that key,go to ``./src/key.js`` replayce "YOUR_API_KEY" with the one you just get.
 
-After that navigate to Google custom search key [here](https://cse.google.com/cse/all) click on the project you just create and copy your Search engine ID (<h3>make sure the option ``Search the entire web`` is turn on</h3>), go to ``./src/useGoogleSearch.js`` replace ``ENGINE_ID`` with the ID you just copy
+After that navigate to Google custom search key [here](https://cse.google.com/cse/all) click on the project you just create and copy your Search engine ID (<b>MAKE SURE ``Search the entire web`` IS ON</b>), go to ``./src/useGoogleSearch.js`` replace ``ENGINE_ID`` with the ID you just copy
 
 Navigate to project folder and Start the project:
    
