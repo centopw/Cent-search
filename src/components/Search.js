@@ -8,7 +8,7 @@ import { useHistory } from "react-router-dom";
 import { actionTypes } from "../reducer";
 
 function Search({ hideButtons = false }) {
-  const [{}, dispatch] = useStateValue();
+  const [ dispatch] = useStateValue();
   const history = useHistory();
   const [term, setTerm] = useState("");
 
