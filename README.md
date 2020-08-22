@@ -14,6 +14,7 @@ A Google clone using [Reactjs](https://reactjs.org/). and google custom search A
 Demo.
 =============
  You can see a live demo [here](https://cent-search.web.app)
+ 
  Since using Free API provide by google the app only can request 100 search/Days
 
 Setup.
