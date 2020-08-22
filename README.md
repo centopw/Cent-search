@@ -9,8 +9,12 @@ CenBot.
 [![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=centopw_CenBot&metric=security_rating)](https://sonarcloud.io/dashboard?id=centopw_CenBot)
 [![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=centopw_CenBot&metric=ncloc)](https://sonarcloud.io/dashboard?id=centopw_CenBot)
 
-A Google clone make with Love and [Reactjs](https://nodejs.org).
+A Google clone using [Reactjs](https://reactjs.org/). and google custom search API
 
+Demo.
+=============
+ You can see a live demo [here](https://cent-search.web.app)
+ Since using Free API provide by google the app only can request 100 search/Days
 
 Setup.
 =============
