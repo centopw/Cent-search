@@ -20,8 +20,9 @@ Demo.
 About.
 =============
 
-Deploy using [Firebase](https://firebase.google.com/) hosting 
-[![Firebase](https://www.gstatic.com/devrel-devsite/prod/v1241c04ebcb2127897d6c18221acbd64e7ed5c46e5217fd83dd808e592c47bf6/firebase/images/lockup.png)](https://firebase.google.com)
+-Deploy using [Firebase](https://firebase.google.com/) 
+-Using API from google custom search
+-Using Reactjs
 
 Setup.
 =============
