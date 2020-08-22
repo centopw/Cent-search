@@ -16,6 +16,12 @@ Demo.
  You can see a live demo [here](https://cent-search.web.app)
  
  Since we are using Free API provide by google, the app only can request 100 search/Days
+ 
+About.
+=============
+
+Deploy using [Firebase](https://firebase.google.com/) hosting 
+[![Firebase](https://www.gstatic.com/devrel-devsite/prod/v1241c04ebcb2127897d6c18221acbd64e7ed5c46e5217fd83dd808e592c47bf6/firebase/images/lockup.png)](https://firebase.google.com)
 
 Setup.
 =============
