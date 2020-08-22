@@ -17,56 +17,21 @@ Setup.
 
 Make sure you have install [nodejs](https://nodejs.org)
 
-Navigate to project folder and install all dependencies:
+Navigate to project folder and Start the project:
    
-   ``$ npm i``
-
-Add your bot token (Create one [here](https://discord.com/developers/applications)) in ``botsettings.json``
-
-To run the bot:
-
-   ``npm index.js``
-
-Add or remove command.
-=====================
-
-Go to ``/commands`` 
-
-Ex: to make bot say hi, go to ``commands`` create a file name ``hi.js`` and add
-
-```node
-const Discord = require("discord.js")
-const botconfig = require("../botsettings.json");//load bot config
-
-module.exports.run = async (bot, message, args) => {
-    return message.channel.send("Hello") //return the text Hello
-}
-
-module.exports.config = {
-    name: "hi",//Name of the command
-    description: "",//description for the command
-    usage: "hi",//run the command 
-    accessableby: "Members", //what permission requre to run the command
-    aliases: ['h'] //another way to use the command
-}
-```
-Dependencies.
-============
-  - discord.js
-  - moment
+   ``$ npm start``
 
 ToDo.
 ====
 
- - Optimize the code
- - Add more modules
- - A full document on how to setup & run
+ - Finish option bar
+ - Optimize
  
  
 Source code.
 ===========
 
-https://github.com/centopw/CenBot
+https://github.com/centopw/Cent-search
 
 Contact
 =======
