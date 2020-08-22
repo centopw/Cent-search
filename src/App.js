@@ -2,7 +2,6 @@ import React from "react";
 import { BrowserRouter as Router, Switch, Route } from "react-router-dom";
 import SearchPage from "./pages/SearchPage";
 import Home from "./pages/Home";
-import "./App.css";
 
 function App() {
   return (
