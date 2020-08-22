@@ -21,7 +21,9 @@ About.
 =============
 
 -Deploy using [Firebase](https://firebase.google.com/) 
+
 -Using API from google custom search
+
 -Using Reactjs
 
 Setup.
