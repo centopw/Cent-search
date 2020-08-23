@@ -41,8 +41,9 @@ After that navigate to Google custom search key [here](https://cse.google.com/cs
 
 
 Navigate to project folder and Start the project:
-   ``$npm i``
-   ``$ npm start``
+
+   ```$npm i
+   $ npm start```
    
 All done and congratulation you just make your self a custom search engine!!!
 
