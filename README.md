@@ -39,8 +39,9 @@ After that navigate to Google custom search key [here](https://cse.google.com/cs
 
 ![Tut](https://github.com/centopw/Cent-search/blob/master/image/ezgif.com-crop.gif)
 
+
 Navigate to project folder and Start the project:
-   
+   ``$npm i``
    ``$ npm start``
    
 All done and congratulation you just make your self a custom search engine!!!
