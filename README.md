@@ -43,7 +43,7 @@ After that navigate to Google custom search key [here](https://cse.google.com/cs
 Navigate to project folder and Start the project:
 
    ```js
-   $npm i
+   $ npm i
    $ npm start
    ```
    
